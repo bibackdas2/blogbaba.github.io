@@ -34,6 +34,7 @@ var gform;gform||(document.addEventListener("gform_main_scripts_loaded",function
 	<meta name="twitter:data1" content="Joshua Fields Millburn">
 	<meta name="twitter:label2" content="Est. reading time">
 	<meta name="twitter:data2" content="44 minutes">
+	<meta name="google-site-verification" content="f3pt_Dbemt-59TacRgdd6Ow7VGJ9AkZyojAbdJoRl6Q" />
 	<!-- / Yoast SEO plugin. -->
 
 
